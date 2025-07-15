@@ -89,7 +89,7 @@ git clone https://github.com/RickiContreras/Conversor-de-monedas-G8.git
 
 ## ❓ Soporte
 
-Si tienes preguntas o sugerencias, puedes abrir un *issue* en el repositorio o contactarme por [LinkedIn](https://www.linkedin.com/in/tu-perfil).
+Si tienes preguntas o sugerencias, puedes abrir un *issue* en el repositorio o contactarme por [LinkedIn](https://www.linkedin.com/in/enrique-oscar-contreras-ab6329b1/).
 
 ---
 
