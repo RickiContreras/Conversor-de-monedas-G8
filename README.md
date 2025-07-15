@@ -56,7 +56,7 @@ Elija una opción válida:
 ## 🔗 Acceso al Proyecto
 
 Puedes acceder al código fuente del proyecto en este repositorio de GitHub:  
-👉 [https://github.com/tu-usuario/conversor-de-monedas](https://github.com/tu-usuario/conversor-de-monedas)
+👉 [https://github.com/tu-usuario/conversor-de-monedas](https://github.com/RickiContreras/Conversor-de-monedas-G8.git)
 
 ---
 
