@@ -74,7 +74,7 @@ Puedes acceder al código fuente del proyecto en este repositorio de GitHub:
 
 1. Clona el repositorio:
 \`\`\`bash
-git clone https://github.com/tu-usuario/conversor-de-monedas.git
+git clone https://github.com/RickiContreras/Conversor-de-monedas-G8.git
 \`\`\`
 
 2. Abre el proyecto en IntelliJ IDEA o tu IDE favorito.
