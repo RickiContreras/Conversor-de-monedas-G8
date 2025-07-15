@@ -1,5 +1,5 @@
 
-# 💱 Conversor de Monedas
+# 💱 Conversor de Monedas G8
 
 ![Portada del proyecto](https://img.shields.io/badge/Java-21-blue?style=for-the-badge&logo=java)  
 Aplicación de consola en Java para convertir monedas latinoamericanas usando una API de tipo de cambio en tiempo real.
