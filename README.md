@@ -8,12 +8,12 @@ Aplicación de consola en Java para convertir monedas latinoamericanas usando un
 
 ## 📋 Índice
 
-- [Descripción del Proyecto](#descripción-del-proyecto)
+- [Descripción del Proyecto](#descripcion-del-proyecto)
 - [Estado del Proyecto](#estado-del-proyecto)
-- [Demostración](#demostración)
+- [Demostración](#demostracion)
 - [Acceso al Proyecto](#acceso-al-proyecto)
-- [Tecnologías Utilizadas](#tecnologías-utilizadas)
-- [Cómo Usarlo](#cómo-usarlo)
+- [Tecnologías Utilizadas](#tecnologias-utilizadas)
+- [Cómo Usarlo](#como-usarlo)
 - [Soporte](#soporte)
 - [Autores](#autores)
 - [Licencia](#licencia)
