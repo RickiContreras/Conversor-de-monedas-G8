@@ -8,7 +8,7 @@ Aplicación de consola en Java para convertir monedas latinoamericanas usando un
 
 ## 📋 Índice
 
-- [Descripción del Proyecto](https://github.com/RickiContreras/Conversor-de-monedas-G8/tree/main?tab=readme-ov-file#-conversor-de-monedas)
+- [Descripción del Proyecto](##descripción-del-proyecto)
 - [Estado del Proyecto](https://github.com/RickiContreras/Conversor-de-monedas-G8/tree/main?tab=readme-ov-file#estado-del-proyecto)
 - [Demostración](#demostración)
 - [Acceso al Proyecto](#acceso-al-proyecto)
