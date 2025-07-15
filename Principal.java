@@ -7,7 +7,7 @@ public class Principal {
         ConexionExchangeRate conexion = new ConexionExchangeRate();
         ConversorMonedas conversor = new ConversorMonedas();
 
-        // Obtiene las tasas una sola vez con base USD
+        // Obtienes las tasas una sola vez con base USD
         Moneda moneda = conexion.obtenerMoneda("USD");
         Map<String, Double> tasas = moneda.conversion_rates();
 
