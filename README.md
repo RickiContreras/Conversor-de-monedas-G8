@@ -96,7 +96,7 @@ Si tienes preguntas o sugerencias, puedes abrir un *issue* en el repositorio o c
 ## 👨‍💻 Autores
 
 - **Ricki Contreras** – Electricista, docente y desarrollador Java en formación.  
-  GitHub: [@tu-usuario](https://github.com/tu-usuario)
+  GitHub: [@RickiContreras](https://github.com/RickiContreras)
 
 ---
 
